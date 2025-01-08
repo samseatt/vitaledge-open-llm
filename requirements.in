@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 pydantic
+pydantic_settings
 openai
 httpx
 pytest-asyncio
